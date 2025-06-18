@@ -104,12 +104,6 @@ If yes, it adds that number to the values list.
 
 Visually:
 
-
-
-
-
-
-
 Original List (nums)
 [4, 9, 13, 18, 7, 2, 15, 20]
        |
